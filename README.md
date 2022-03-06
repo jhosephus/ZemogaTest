@@ -13,7 +13,7 @@ When executed by the first time, it will look for posts in a local database, if 
 Is an item in the post list is touched/clicked, it will redirect to a detail screen, where more information is depicted: a description, the author information and all the comments realted to the post. Author information and comments are also cached in local.
 
 ## Technologies used
-<img src="https://4.bp.blogspot.com/-NnAkV5vpYuw/XNMYF4RtLvI/AAAAAAAAI70/kdgLm3cnTO4FB4rUC0v9smscN3zHJPlLgCLcBGAs/s1600/Jetpack_logo%2B%25282%2529.png" width="70" height="70" /> &nbsp; &nbsp; <img src="https://miro.medium.com/max/1400/1*o8Q_O-C6yGZQqW_2cdafoQ.png" width="70" height="70" /> &nbsp; &nbsp; <img src="https://3.bp.blogspot.com/-GOONRBOVwjo/WwWmZjvUb_I/AAAAAAAABqQ/IgFZ-m0CxFwiP5u1QxR5Hwzg3VkCwNK0QCLcBGAs/s1600/room.jpeg" width="70" height="70" /> &nbsp; &nbsp; <img src="https://miro.medium.com/max/1200/1*WMf1XcyKU98dOMlNnn-Agg.png" width="70" height="70" />
+<img src="https://4.bp.blogspot.com/-NnAkV5vpYuw/XNMYF4RtLvI/AAAAAAAAI70/kdgLm3cnTO4FB4rUC0v9smscN3zHJPlLgCLcBGAs/s1600/Jetpack_logo%2B%25282%2529.png" width="140" height="140" /> &nbsp; &nbsp; <img src="https://miro.medium.com/max/1400/1*o8Q_O-C6yGZQqW_2cdafoQ.png" width="200" height="140" /> &nbsp; &nbsp; <img src="https://3.bp.blogspot.com/-GOONRBOVwjo/WwWmZjvUb_I/AAAAAAAABqQ/IgFZ-m0CxFwiP5u1QxR5Hwzg3VkCwNK0QCLcBGAs/s1600/room.jpeg" width="240" height="140" /> &nbsp; &nbsp; <img src="https://miro.medium.com/max/1200/1*WMf1XcyKU98dOMlNnn-Agg.png" width="240" height="140" />
 
 ## Architecture
 
