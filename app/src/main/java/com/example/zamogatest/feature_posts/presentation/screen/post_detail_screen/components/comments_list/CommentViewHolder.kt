@@ -14,6 +14,8 @@ class CommentViewHolder(
 
     fun render(comment: Comment) {
         binding.tvBody.text = comment.body
+        binding.tvTitle.text = comment.name
+        binding.tvAuthor.text = comment.email
     }
 
 }

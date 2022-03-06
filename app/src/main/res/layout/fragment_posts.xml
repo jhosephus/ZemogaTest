@@ -11,8 +11,8 @@
         android:layout_width="match_parent"
         android:layout_height="?attr/actionBarSize"
         android:background="@color/purple_500"
-        android:elevation="25dp"
-        app:layout_constraintTop_toTopOf="parent"/>
+        app:layout_constraintTop_toTopOf="parent"
+        app:titleTextColor="@color/white"/>
 
     <!--
     <androidx.recyclerview.widget.RecyclerView
@@ -34,7 +34,9 @@
         <com.google.android.material.tabs.TabLayout
             android:id="@+id/tab_layout"
             android:layout_width="match_parent"
-            android:layout_height="wrap_content" />
+            android:layout_height="wrap_content"
+            android:background="@color/purple_500"
+            app:tabTextColor="@color/white"/>
 
     </androidx.viewpager.widget.ViewPager>
 
